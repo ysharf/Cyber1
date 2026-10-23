@@ -1,0 +1,58 @@
+<div align="center">
+
+# 🛡️ CyberPrompt Studio
+### Interactive Cybersecurity Roadmap & AI Prompt Engineering Studio
+
+[![Live Web App](https://img.shields.io/badge/🚀_LAUNCH_STUDIO-Open_Web_App-10b981?style=for-the-badge&labelColor=040811)](https://ysharf.github.io/Cyber1/)
+[![Curriculum](https://img.shields.io/badge/Roadmap-13_Phases_%7C_200%2B_Topics-8b5cf6?style=for-the-badge&labelColor=040811)](https://ysharf.github.io/Cyber1/)
+[![Focus](https://img.shields.io/badge/Tracks-Bug_Bounty_%7C_CTF_%7C_Red_Team-f43f5e?style=for-the-badge&labelColor=040811)](https://github.com/ysharf/Cyber1)
+
+<br />
+
+**استوديو تفاعلي لتوليد برومتات تعليمية هندسية دقيقة لدراسة الأمن السيبراني من الصفر حتى الاحتراف، مع تتبع التقدم وتخصيص كامل للمنهج.**
+
+[✨ **اضغط هنا لفتح الأداة مباشرة (Live Studio)** ✨](https://ysharf.github.io/Cyber1/)
+
+</div>
+
+---
+
+## ⚡ مميزات الأداة (Core Capabilities)
+
+### 🧭 1. منهج أمن سيبراني متكامل (13-Phase Audited Roadmap)
+يغطي المنهج المدمج مسارًا متدرجًا ومدققًا يشمل:
+1. **Phase 1–2:** Linux, OS Internals & Networking Fundamentals.
+2. **Phase 3–5:** Security Foundations, Scripting (Bash/Python) & Web/API Backend Architecture.
+3. **Phase 6–8:** Reconnaissance, OWASP WSTG, Core & Advanced Web/API Pentesting.
+4. **Phase 9:** Host Security, Privilege Boundaries & Red-Team Foundations.
+5. **Phase 10–12:** Cloud Architecture (AWS), DevSecOps, Containers & Controlled Cloud Labs.
+6. **Phase 13:** Technical Reporting, CVSS, Remediation & Portfolio Building.
+
+### 🧠 2. هندسة برومت ذكية (Context-Aware Prompt Engine)
+* **فحص الاتساق التلقائي (Roadmap Consistency Check):** يدمج خريطة المنهج والدروس المكتملة داخل البرومت لضمان عدم القفز على المتطلبات السابقة.
+* **اختيار متعدد للدروس (Multi-Lesson Selection):** إمكانية تحديد درس واحد أو دمج عدة دروس في برومت واحد مترابط.
+* **تخصيص العمق والتركيز:**
+  * **عمق الشرح:** قياسي (`Standard`) | متعمق (`Deep Dive`) | دليل عملي (`Cheat Sheet`).
+  * **التركيز العملي:** `Bug Bounty` | `CTF & Labs` | `Red Team Simulation`.
+  * **نوع الناتج:** شرح تفصيلي كامل أو ملخص مراجعة سريعة + Quiz استرجاع نشط.
+* **إضافات ذكية بضغطة زر:** خريطة ذهنية، منظور دفاعي (`Blue Team`)، إعداد معمل محلي (`Local Lab`)، وسكريبت أتمتة (`Bash/Python`).
+
+### 🛠️ 3. محرر منهج مدمج وتتبع إنجاز (Curriculum Editor & Progress Tracker)
+* حفظ تلقائي للدروس المكتملة في المتصفح (`LocalStorage`) مع شريط تقدم تفاعلي.
+* إمكانية إضافة مراحل جديدة، تعديل ترتيب الدروس، أو تصدير المنهج كملف `JSON`.
+* **5 ثيمات احترافية:** *Cyber Emerald, Vision Violet, Red Team Crimson, Hologram Aqua, Royal Gold*.
+
+---
+
+## 🚀 طريقة الاستخدام السريع
+
+1. افتح الأداة عبر الرابط: **[ysharf.github.io/Cyber1](https://ysharf.github.io/Cyber1/)**
+2. اختر **المرحلة (Phase)** وحدد **الدرس أو مجموعة الدروس** المطلوبة.
+3. اختر **عمق الشرح** و **التركيز العملي** والإضافات المناسبة لك.
+4. اضغط على زر **`⧉ نسخ البرومت`** والصقه مباشرة في نموذج الذكاء الاصطناعي المفضل لديك.
+
+---
+
+<div align="center">
+  Crafted by <b><a href="https://github.com/ysharf">ysharf</a></b>
+</div>
